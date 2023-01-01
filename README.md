@@ -1,4 +1,4 @@
-# Divvy-Van-Navigator
+Divvy-Van-Navigator
 
 # This is a group project made by the efforts of Me, Mike Gibson, and Paul Chirmal. The idea of this project is to help 
 # the Divvy Bike Organization in optimizing the transport and pickup of Divvy vehicles between Divvy stations/docks done by
