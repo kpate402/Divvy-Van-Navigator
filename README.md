@@ -56,6 +56,7 @@ results and errors so we recommend Chrome and getting the extension shown by the
 5. pick the port number to enter at the bottom
 6. Make sure web server is started
 7. Click webserver URL provided
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/74434573/211172131-715c741d-ce97-4c4b-bddb-80f7b547152a.png">
+<img width="583" alt="image" src="https://user-images.githubusercontent.com/74434573/211172345-2b30fb8d-328c-44ab-a952-10705a377cec.png">
+
 
 
