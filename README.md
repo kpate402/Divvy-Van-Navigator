@@ -8,7 +8,6 @@ can be put in any other station in the city but this can lead to overflow or lac
 are tasked to pick up bikes from stations with overflow and drop off bikes at places with a lack of bikes.
 
 Divvy Van Navigator Prototype:  
-
 Mike Gibson, Paul Chirmal, and I created a prototype of a webpage that could be used to help Divvy Van Driver's with there 
 tranportation of bikes between stations. This is done by tackling the Travelling Knapsack problem while adding other helpful
 features such as station information and bike database for all bikes and stations. The current prototype webpage is split into
@@ -44,4 +43,19 @@ decided that the Divvy Van Driver does not need all this information so it was c
 of vehicles in the Van. Currently, all related vehicles informations is obtained through API calls to the Divvy bike organization 
 that information stored in a database which is used to figure out number of vehicles in the van based on type
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/74434573/211171714-85b8ad20-4d5a-4cfa-9e91-30b6f17b6bc8.png">
+
+How to Open and Run:
+Best way to Run this webpage is using Google Chrome. For the current prototype using different systems and browsers can lead to unknown
+results and errors so we recommend Chrome and getting the extension shown by the link below.
+200 Ok! Web Server for Chrome extension link: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+
+1. clone the repository on your system
+2. open 200 Ok! Web Server for Chrome
+3. in 200 Ok!, click the Choose Folder button and pick folder DivvyWeb that is in the cloned repository 
+4. check the boxed to automatically show index.html
+5. pick the port number to enter at the bottom
+6. Make sure web server is started
+7. Click webserver URL provided
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/74434573/211172131-715c741d-ce97-4c4b-bddb-80f7b547152a.png">
+
 
