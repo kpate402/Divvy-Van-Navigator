@@ -46,8 +46,11 @@ that information stored in a database which is used to figure out number of vehi
 
 How to Open and Run:
 Best way to Run this webpage is using Google Chrome. For the current prototype using different systems and browsers can lead to unknown
-results and errors so we recommend Chrome and getting the extension shown by the link below.
-200 Ok! Web Server for Chrome extension link: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+results and errors so we recommend Chrome and getting the extension shown by the link below. Also you can use open or start commands on
+the terminal to see individual html files but most of the functionality will not work so it not recommended.
+
+200 Ok! Web Server for Chrome extension link: 
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
 
 1. clone the repository on your system
 2. open 200 Ok! Web Server for Chrome
